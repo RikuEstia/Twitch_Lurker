@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Twitch_Lurker": {
+      "commandName": "Project",
+      "runAsAdmin": true
+    }
+  }
+}
